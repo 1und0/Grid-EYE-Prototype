@@ -12,4 +12,4 @@ This repository contains the code for a proof-of-concept installation based on t
 
 # Contributors
 Andreas Berst (andreas.berst@uni-weimar.de)<br>
-Kevin Schminnes (kevin.schminnes@uni-weimar.de
+Kevin Schminnes (kevin.schminnes@uni-weimar.de)
