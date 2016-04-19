@@ -1,5 +1,5 @@
 # Grid-EYE-Research-Project
-This repository contains the code for a proof-of-concept installation based on the Grid-EYE sensor and panStamp microcontrollers. It includes the handler script, the operating code for the panStamps and some basic training data for the GRT. We used the setup to track subjects performing sport exercises in front of our installation.
+This repository contains the code for a proof-of-concept installation based on the Grid-EYE sensor and panStamp microcontrollers. It includes the handler script, the operating code for the panStamps and some basic training data for the GRT. We used the setup to track subjects performing sport exercises in front of a installation.
 
 # Hardware
 
