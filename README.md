@@ -12,7 +12,7 @@ This repository contains the code for a proof-of-concept installation based on t
 
  1. Install the GRT  (http://www.nickgillian.com/wiki/pmwiki.php/GRT/Download)
  2. Upload the Sketches to the panStamps
- 3. Start the processing (Check if the right USB port is selected)
+ 3. Start the handler Sketch (Check if the right USB port is selected)
  4. Start the GRT
    * Select Classification mode (Timeseries Mode, Classification Mode)
    * Set number of inputs to 64
