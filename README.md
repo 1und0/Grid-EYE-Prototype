@@ -18,7 +18,7 @@ This repository contains the code for a proof-of-concept installation based on t
    * Set number of inputs to 64
    * Load training data via the Data manager
    * Train the GRT
- 5. Activate highpass and background filter by pressing the keys "H" & "B"
+ 5. When the pipeline works activate highpass and background filter by pressing the keys "H" & "B"
 
 
 # Contributors
